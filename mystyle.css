@@ -1,0 +1,74 @@
+/*body
+{
+ bgcolor:"#f3f9d4";
+}*/
+#grad
+{
+	background: -webkit-radial-gradient(#d22c5d,#432865);
+}
+div div
+{
+	display:inline-block;
+}
+h3
+{
+ text-transform: capitalize;
+ color: white;
+ text-shadow: 4px 4px black;
+ text-align: center;
+ font-family: "fantasy";
+ font-size: 50px;
+  font-style:oblique;
+
+}
+p
+{   
+    column-count:3;
+	column-gap:40px;
+	column-span:all;
+    font-size: 25px;
+	text-indent: 50px;
+	text-overflow: ellipse;
+	text-transform: capitalize;
+	font-style:italic;
+}
+
+.id1
+{ 
+    position: absolute;
+    top: 80px;
+    right: 500px;
+}
+.id2
+{ 
+    position: absolute;
+    top: 80px;
+    right: 400px;
+}
+.id3
+{ 
+    position: absolute;
+    top: 80px;
+    right: 250px;
+}
+.id4
+{ 
+    position: absolute;
+    top: 80px;
+    right: 100px;
+}
+
+.button
+{
+	background-color: white;
+	border:none;
+	color: black;
+	padding:3px 5px;
+	text-align:center;
+	display: inline-block;
+	font-size: 20px;
+	font-style:oblique;
+	border-radius:7px;
+	
+	
+}
